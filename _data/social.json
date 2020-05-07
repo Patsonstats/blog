@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/patsonstats"
+    },
+    {
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/patsonstats"
+    },
+    {
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/pat-wong-1738208/"
+    },
+    {
+      "title": "Quora",
+      "icon": "fa-quora",
+      "url": "https://www.quora.com/profile/Pat-Wong-31"
+    }
+  ]
+}
