@@ -1,4 +1,4 @@
-# Scriptor
+# Pats on Stats Site
 
 Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
 
