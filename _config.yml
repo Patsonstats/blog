@@ -6,7 +6,7 @@ lang: en-US
 title: "Pats on Stats"
 
 # A description of your site for meta tag, search engine results.
-description: "Data Science, Personal Finance, and Statistics by Pat Wong"
+description: "Data Science, Personal Finance, and Statistics"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -55,7 +55,7 @@ paginate_path: '/page:num/'
 
 
 # Permalinks
-permalink: /:title
+permalink: /:title/
 
 # Conversion
 markdown: kramdown
